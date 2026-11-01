@@ -1,0 +1,6 @@
+{
+  "name": "PROJECT XL",
+  "description": "Advanced Spreadsheet & Automation Control Center with intelligent party lookup, conditional rules, Excel-grade grid, and AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
