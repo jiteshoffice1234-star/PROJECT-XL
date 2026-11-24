@@ -4,8 +4,8 @@
 
 **A modern TypeScript web app — fast, clean, built with Vite.**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-ready-000000?logo=bun&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
